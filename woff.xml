@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ttFont>
+  <glyf>
+    <TTGlyph name="uniF29C">
+      <contour>
+        <pt x="43" y="335" on="1"/>
+        <pt x="69" y="544" on="1"/>
+        <pt x="148" y="682" on="1"/>
+        <pt x="282" y="710" on="1"/>
+        <pt x="459" y="617" on="1"/>
+        <pt x="504" y="498" on="1"/>
+        <pt x="518" y="335" on="1"/>
+        <pt x="494" y="126" on="1"/>
+        <pt x="414" y="4" on="1"/>
+        <pt x="290" y="-27" on="1"/>
+        <pt x="115" y="23" on="1"/>
+        <pt x="45" y="338" on="1"/>
+        <pt x="135" y="344" on="1"/>
+        <pt x="269" y="47" on="1"/>
+        <pt x="385" y="96" on="1"/>
+        <pt x="385" y="581" on="1"/>
+        <pt x="278" y="635" on="1"/>
+        <pt x="181" y="584" on="1"/>
+        <pt x="135" y="335" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF65E">
+      <contour>
+        <pt x="168" y="371" on="1"/>
+        <pt x="71" y="521" on="1"/>
+        <pt x="128" y="668" on="1"/>
+        <pt x="436" y="655" on="1"/>
+        <pt x="495" y="519" on="1"/>
+        <pt x="386" y="371" on="1"/>
+        <pt x="489" y="300" on="1"/>
+        <pt x="524" y="184" on="1"/>
+        <pt x="458" y="37" on="1"/>
+        <pt x="283" y="-39" on="1"/>
+        <pt x="112" y="25" on="1"/>
+        <pt x="42" y="186" on="1"/>
+        <pt x="181" y="371" on="1"/>
+        <pt x="163" y="534" on="1"/>
+        <pt x="284" y="406" on="1"/>
+        <pt x="369" y="439" on="1"/>
+        <pt x="402" y="506" on="1"/>
+        <pt x="271" y="635" on="1"/>
+        <pt x="197" y="603" on="1"/>
+        <pt x="163" y="533" on="1"/>
+        <pt x="134" y="186" on="1"/>
+        <pt x="152" y="105" on="1"/>
+        <pt x="207" y="55" on="1"/>
+        <pt x="284" y="35" on="1"/>
+        <pt x="390" y="77" on="1"/>
+        <pt x="432" y="185" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF4E7">
+      <contour>
+        <pt x="420" y="521" on="1"/>
+        <pt x="386" y="597" on="1"/>
+        <pt x="296" y="635" on="1"/>
+        <pt x="220" y="612" on="1"/>
+        <pt x="154" y="522" on="1"/>
+        <pt x="135" y="449" on="1"/>
+        <pt x="128" y="364" on="1"/>
+        <pt x="209" y="425" on="1"/>
+        <pt x="306" y="449" on="1"/>
+        <pt x="463" y="382" on="1"/>
+        <pt x="522" y="211" on="1"/>
+        <pt x="293" y="-39" on="1"/>
+        <pt x="109" y="43" on="1"/>
+        <pt x="39" y="317" on="1"/>
+        <pt x="117" y="626" on="1"/>
+        <pt x="301" y="710" on="1"/>
+        <pt x="457" y="661" on="1"/>
+        <pt x="510" y="528" on="1"/>
+        <pt x="142" y="211" on="1"/>
+        <pt x="162" y="122" on="1"/>
+        <pt x="292" y="35" on="1"/>
+        <pt x="389" y="81" on="1"/>
+        <pt x="430" y="206" on="1"/>
+        <pt x="288" y="363" on="1"/>
+        <pt x="184" y="326" on="1"/>
+        <pt x="158" y="211" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF832">
+      <contour>
+        <pt x="515" y="60" on="1"/>
+        <pt x="515" y="-26" on="1"/>
+        <pt x="31" y="-15" on="1"/>
+        <pt x="42" y="36" on="1"/>
+        <pt x="79" y="86" on="1"/>
+        <pt x="100" y="136" on="1"/>
+        <pt x="150" y="181" on="1"/>
+        <pt x="218" y="245" on="1"/>
+        <pt x="380" y="400" on="1"/>
+        <pt x="422" y="508" on="1"/>
+        <pt x="284" y="635" on="1"/>
+        <pt x="180" y="596" on="1"/>
+        <pt x="140" y="488" on="1"/>
+        <pt x="48" y="498" on="1"/>
+        <pt x="286" y="710" on="1"/>
+        <pt x="453" y="652" on="1"/>
+        <pt x="514" y="506" on="1"/>
+        <pt x="497" y="420" on="1"/>
+        <pt x="436" y="330" on="1"/>
+        <pt x="381" y="284" on="1"/>
+        <pt x="298" y="201" on="1"/>
+        <pt x="223" y="144" on="1"/>
+        <pt x="170" y="93" on="1"/>
+        <pt x="156" y="60" on="1"/>
+        <pt x="507" y="60" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF777">
+      <contour>
+        <pt x="133" y="180" on="1"/>
+        <pt x="185" y="69" on="1"/>
+        <pt x="276" y="35" on="1"/>
+        <pt x="387" y="306" on="1"/>
+        <pt x="284" y="331" on="1"/>
+        <pt x="220" y="321" on="1"/>
+        <pt x="230" y="400" on="1"/>
+        <pt x="253" y="399" on="1"/>
+        <pt x="245" y="399" on="1"/>
+        <pt x="394" y="513" on="1"/>
+        <pt x="361" y="600" on="1"/>
+        <pt x="259" y="635" on="1"/>
+        <pt x="187" y="593" on="1"/>
+        <pt x="142" y="504" on="1"/>
+        <pt x="52" y="520" on="1"/>
+        <pt x="127" y="660" on="1"/>
+        <pt x="272" y="707" on="1"/>
+        <pt x="393" y="683" on="1"/>
+        <pt x="386" y="371" on="1"/>
+        <pt x="487" y="309" on="1"/>
+        <pt x="523" y="190" on="1"/>
+        <pt x="453" y="27" on="1"/>
+        <pt x="276" y="-40" on="1"/>
+        <pt x="43" y="156" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF75E">
+      <contour>
+        <pt x="330" y="-23" on="1"/>
+        <pt x="331" y="140" on="1"/>
+        <pt x="5" y="156" on="1"/>
+        <pt x="23" y="232" on="1"/>
+        <pt x="358" y="707" on="1"/>
+        <pt x="417" y="711" on="1"/>
+        <pt x="421" y="243" on="1"/>
+        <pt x="520" y="232" on="1"/>
+        <pt x="518" y="149" on="1"/>
+        <pt x="418" y="149" on="1"/>
+        <pt x="436" y="-12" on="1"/>
+        <pt x="321" y="-26" on="1"/>
+        <pt x="331" y="232" on="1"/>
+        <pt x="329" y="551" on="1"/>
+        <pt x="104" y="232" on="1"/>
+        <pt x="340" y="232" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="x">
+      <contour>
+        <pt x="20" y="20" on="1"/>
+        <pt x="50" y="20" on="1"/>
+        <pt x="50" y="-20" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniF2AC">
+      <contour>
+        <pt x="390" y="-12" on="1"/>
+        <pt x="298" y="-37" on="1"/>
+        <pt x="291" y="543" on="1"/>
+        <pt x="204" y="491" on="1"/>
+        <pt x="112" y="438" on="1"/>
+        <pt x="112" y="526" on="1"/>
+        <pt x="250" y="625" on="1"/>
+        <pt x="292" y="662" on="1"/>
+        <pt x="325" y="723" on="1"/>
+        <pt x="382" y="704" on="1"/>
+        <pt x="378" y="-25" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniEB2D">
+      <contour>
+        <pt x="137" y="173" on="1"/>
+        <pt x="278" y="35" on="1"/>
+        <pt x="388" y="84" on="1"/>
+        <pt x="276" y="380" on="1"/>
+        <pt x="198" y="361" on="1"/>
+        <pt x="151" y="310" on="1"/>
+        <pt x="58" y="320" on="1"/>
+        <pt x="129" y="693" on="1"/>
+        <pt x="494" y="703" on="1"/>
+        <pt x="494" y="611" on="1"/>
+        <pt x="202" y="599" on="1"/>
+        <pt x="162" y="414" on="1"/>
+        <pt x="217" y="448" on="1"/>
+        <pt x="300" y="460" on="1"/>
+        <pt x="463" y="409" on="1"/>
+        <pt x="470" y="51" on="1"/>
+        <pt x="278" y="-39" on="1"/>
+        <pt x="115" y="17" on="1"/>
+        <pt x="43" y="179" on="1"/>
+        <pt x="137" y="172" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniE155">
+      <contour>
+        <pt x="142" y="153" on="1"/>
+        <pt x="184" y="48" on="1"/>
+        <pt x="264" y="35" on="1"/>
+        <pt x="337" y="64" on="1"/>
+        <pt x="422" y="191" on="1"/>
+        <pt x="426" y="300" on="1"/>
+        <pt x="434" y="323" on="1"/>
+        <pt x="360" y="249" on="1"/>
+        <pt x="247" y="223" on="1"/>
+        <pt x="105" y="288" on="1"/>
+        <pt x="43" y="462" on="1"/>
+        <pt x="273" y="724" on="1"/>
+        <pt x="526" y="356" on="1"/>
+        <pt x="262" y="-39" on="1"/>
+        <pt x="122" y="7" on="1"/>
+        <pt x="53" y="144" on="1"/>
+        <pt x="142" y="151" on="1"/>
+        <pt x="425" y="466" on="1"/>
+        <pt x="383" y="592" on="1"/>
+        <pt x="284" y="635" on="1"/>
+        <pt x="126" y="459" on="1"/>
+        <pt x="185" y="347" on="1"/>
+        <pt x="384" y="345" on="1"/>
+      </contour>
+    </TTGlyph>
+    <TTGlyph name="uniEAEE">
+      <contour>
+        <pt x="48" y="616" on="1"/>
+        <pt x="39" y="698" on="1"/>
+        <pt x="530" y="698" on="1"/>
+        <pt x="523" y="627" on="1"/>
+        <pt x="384" y="420" on="1"/>
+        <pt x="323" y="306" on="1"/>
+        <pt x="267" y="184" on="1"/>
+        <pt x="244" y="-28" on="1"/>
+        <pt x="164" y="-32" on="1"/>
+        <pt x="160" y="78" on="1"/>
+        <pt x="185" y="183" on="1"/>
+        <pt x="278" y="419" on="1"/>
+        <pt x="341" y="525" on="1"/>
+        <pt x="398" y="611" on="1"/>
+        <pt x="48" y="611" on="1"/>
+      </contour>
+    </TTGlyph>
+  </glyf>
+  <UnicodeMap2Value>
+    <Map unicode="uniF29C" value="0"/>
+    <Map unicode="uniF65E" value="8"/>
+    <Map unicode="uniF4E7" value="6"/>
+    <Map unicode="uniF832" value="2"/>
+    <Map unicode="uniF777" value="3"/>
+    <Map unicode="uniF75E" value="4"/>
+    <Map unicode="x" value="."/>
+    <Map unicode="uniF2AC" value="1"/>
+    <Map unicode="uniEB2D" value="5"/>
+    <Map unicode="uniE155" value="9"/>
+    <Map unicode="uniEAEE" value="7"/>
+  </UnicodeMap2Value>
+</ttFont>
